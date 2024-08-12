@@ -33,12 +33,17 @@ Calculating the Duration of Each Period of Inactivity
 Period 1:
 
 Start: 1704042026000
+
 End: 1704042037000
+
 Duration 1704042037000 - 1704042026000 = 11000 ms
 
 Period 2:
+
 Start 1704042059000
+
 End: 1704042060000
+
 Duration 1704042060000 - 1704042059000 = 1000 ms
 
 Sum the Duration
