@@ -33,8 +33,8 @@ Period 1:
 Start: 1704042026000
 End: 1704042037000
 Duration 1704042037000 - 1704042026000 = 11000 ms
-Period 2
 
+Period 2:
 Start 1704042059000
 End: 1704042060000
 Duration 1704042060000 - 1704042059000 = 1000 ms
@@ -46,7 +46,5 @@ Convert from milliseconds to seconds (by dividing by 1000) and sum:
 Period 1: 11000 ms / 1000 = 11 seconds
 Period 2: 1000 ms / 1000 = 1 second
 Total downtime in seconds: 11 seconds + 1 second = 12 seconds
-Final Answer
-The total downtime of the data data_test_1 is 12 seconds.
 
 # I used python programming language to calculate how long the device was off referenced by the csv data (in seconds). And I got the total downtime for 58310.00 seconds
